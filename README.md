@@ -81,4 +81,7 @@ There's always room to grow. Here's what could make this calculator more powerfu
  
 *Built with curiosity and zero AI — just React, CSS, and persistence.*
  
+https://github.com/user-attachments/assets/6c54aaac-86b7-4651-8a16-a5d85c0d7804
+
+
 </div>
